@@ -1,0 +1,117 @@
+[E] [19-09-22 12:04:27]: Error de loggin
+[E] [19-09-22 12:16:18]: Error de loggin
+[I] [22-09-22 09:46:46]: Todo correcto, usuario [] ingreso a la página 
+[I] [22-09-22 09:47:01]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 09:47:27]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 09:47:51]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 09:48:47]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 09:50:37]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 09:52:29]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 09:59:04]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 09:59:39]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 09:59:50]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 10:01:49]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 10:02:58]: Todo correcto, usuario [OK] ingreso a la página 
+[I] [22-09-22 10:03:08]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:04:59]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:07:47]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:07:50]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:08:48]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:10:32]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:12:09]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:13:11]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:29:55]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:29:58]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:30:23]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:33:07]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 10:36:05]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:11:39]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:11:54]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:12:28]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:12:34]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:12:37]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:14:48]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:23:28]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:37:51]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:39:52]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:42:24]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:42:26]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 12:46:38]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 14:39:00]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 15:52:40]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 15:52:55]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [22-09-22 15:53:12]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [23-09-22 10:45:55]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [23-09-22 12:17:17]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [23-09-22 12:29:06]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [23-09-22 12:29:16]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [23-09-22 12:33:11]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [23-09-22 18:18:36]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [23-09-22 18:29:19]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [23-09-22 18:41:11]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 08:46:47]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 08:49:29]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 08:49:37]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 08:49:52]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 08:50:02]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 08:52:36]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 08:53:30]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 09:04:11]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 09:04:16]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 09:05:54]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 09:06:07]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 09:06:11]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 09:07:06]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 09:07:07]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 20:40:22]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 20:41:13]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 20:43:40]: Todo correcto, usuario [admin] ingreso a la página 
+[E] [24-09-22 20:49:44]: Error de loggin
+[E] [24-09-22 20:50:17]: Error de loggin
+[E] [24-09-22 20:50:41]: Error de loggin
+[E] [24-09-22 20:53:10]: Error de loggin
+[E] [24-09-22 20:53:18]: Error de loggin
+[I] [24-09-22 20:53:45]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 20:54:14]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 20:54:18]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 20:54:19]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 20:56:07]: Todo correcto, usuario [admin] ingreso a la página 
+[E] [24-09-22 20:56:34]: Error de loggin
+[I] [24-09-22 21:29:15]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 21:54:31]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 21:54:40]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 22:04:39]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [24-09-22 22:04:53]: Todo correcto, usuario [admin] ingreso a la página 
+[E] [25-09-22 05:20:46]: Error de loggin
+[E] [25-09-22 05:21:53]: Error de loggin
+[E] [25-09-22 05:22:01]: Error de loggin
+[E] [25-09-22 05:23:06]: Error de loggin
+[E] [25-09-22 05:23:52]: Error de loggin
+[E] [25-09-22 05:26:02]: Error de loggin
+[E] [25-09-22 05:27:05]: Error de loggin
+[E] [25-09-22 05:27:59]: Error de loggin
+[E] [25-09-22 05:28:22]: Error de loggin
+[E] [25-09-22 05:28:54]: Error de loggin
+[E] [25-09-22 06:15:38]: Error de loggin
+[E] [25-09-22 06:15:59]: Error de loggin
+[E] [25-09-22 06:18:05]: Error de loggin
+[E] [25-09-22 06:18:14]: Error de loggin
+[E] [25-09-22 06:18:33]: Error de loggin
+[I] [25-09-22 06:39:09]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [25-09-22 06:39:25]: Todo correcto, usuario [admin] ingreso a la página 
+[E] [25-09-22 06:43:49]: Error de loggin
+[E] [25-09-22 06:44:37]: Error de loggin
+[E] [25-09-22 06:44:55]: Error de loggin
+[E] [25-09-22 06:45:14]: Error de loggin
+[I] [25-09-22 06:46:09]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [25-09-22 06:46:58]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [25-09-22 06:47:07]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [25-09-22 06:49:10]: Todo correcto, usuario [admin] ingreso a la página 
+[E] [25-09-22 06:50:15]: Error de loggin
+[I] [25-09-22 06:50:25]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [25-09-22 06:50:49]: Todo correcto, usuario [admin] ingreso a la página 
+[E] [25-09-22 06:50:55]: Error de loggin
+[E] [25-09-22 06:52:59]: Error de loggin
+[I] [25-09-22 07:37:45]: Todo correcto, usuario [admin] ingreso a la página 
+[I] [25-09-22 07:38:45]: Todo correcto, usuario [admin] ingreso a la página 
+[E] [25-09-22 15:48:26]: Error de loggin
