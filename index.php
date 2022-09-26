@@ -27,7 +27,7 @@ include 'template/cabecera.php';
                         <p class = "d-none d-md-block"> Las últimas noticias del mundo. Noticias de Estados Unidos, México, Colombia, Argentina, otros países de Latinoamérica y el mundo en DIARIO NEWS.</p>
                         <!-- este boton nos lleva a las últimas noticias publicadas, las cuales las trae de la base de datos -->
                         <a href="noticias.php" class="btn btn-outline-light">Mira las noticias de hoy</a>
-                        <!-- este boton sirve para el login, lo hice con un modal  -->
+                        <!-- este boton sirve para el login, lo hice con un modal -->
                         <button type="button" class="btn btn-news" data-bs-toggle="modal" data-bs-target="#modalCompra">Login - Administrador</button>                    
                     </div>
                 </div>

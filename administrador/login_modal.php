@@ -14,7 +14,7 @@
                 <p> <?= $mensaje; ?></p>
               </div>
             <?php endif;  ?> 
-                <!-- Agregamos el formiulario al Modal. form-group -->
+                <!-- Agregamos el formulario al Modal. form-group -->
             <form method="POST" action="administrador/login.php">
                 <div class="mb-3 row">
                     <label for="usuario" class="col-sm-2 col-form-label">Usuario</label>

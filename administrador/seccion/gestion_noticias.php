@@ -99,7 +99,7 @@ switch ($accion) {
 
         
         break;
-    case 'Borrar': //cogemos el valor del boton submit     que es Borrar
+    case 'Borrar': //Tomo el valor del boton submit que es Borrar
 
          $sentenciaSQL=$db->prepare("SELECT imagen FROM noticias WHERE id=:id");
          $sentenciaSQL->bindParam(':id', $txtID);
