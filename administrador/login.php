@@ -25,6 +25,7 @@ if (isset($_POST["submit"])) {
             setcookie("Usuario_Admin", $_SESSION['usuario'], time() + (86400 * 30), "/");
 
     }else{
+      header('location:../index.php');
       $mensaje = "Error: El usuario o contraseña son incorrectas";
       
       //Incluimos el logs.php.
